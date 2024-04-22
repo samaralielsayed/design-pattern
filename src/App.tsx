@@ -1,6 +1,6 @@
-import { Button } from "./task2/Button";
-import { ToastContainer } from "./task2/ToastContainer";
-import { observable, toast } from "./task2/task2";
+import { Button } from "./observable/Button";
+import { ToastContainer } from "./observable/ToastContainer";
+import { observable, toast } from "./observable/task2";
 
 function App() {
   return (
